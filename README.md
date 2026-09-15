@@ -47,3 +47,6 @@ This project demonstrates practical experience in:
 ## 📌 Project Status
 
 **Completed – Fully Operational Industrial System**
+
+<img width="932" height="1005" alt="image" src="https://github.com/user-attachments/assets/9da43194-3187-48b3-9cd7-f42b01c246d1" />
+
